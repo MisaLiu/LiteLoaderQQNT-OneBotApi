@@ -194,7 +194,3 @@ export async function encodeSilk(filePath: string) {
         return {};
     }
 }
-
-export function isNull(value: any) {
-    return value === undefined || value === null;
-}
