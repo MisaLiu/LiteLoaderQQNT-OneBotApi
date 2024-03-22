@@ -1,4 +1,5 @@
 name: Bug反馈
+description: 报告Bug
 title: '[BUG]'
 labels: bug
 body:
