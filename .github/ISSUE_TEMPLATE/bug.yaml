@@ -69,8 +69,10 @@ body:
     attributes:
       label: LLOneBot 运行日志
       description: 在 LLOneBot 的设置页中打开「写入日志」然后粘贴相关日志内容到此处
+      render: shell
   - type: textarea
     id: onebot-client-log
     attributes:
       label: OneBot 客户端运行日志
       description: 粘贴 OneBot 客户端的相关日志内容到此处
+      render: shell
