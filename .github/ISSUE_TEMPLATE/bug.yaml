@@ -1,5 +1,4 @@
 name: Bug反馈
-about: 报个Bug
 title: '[BUG]'
 labels: bug
 body:
@@ -35,7 +34,7 @@ body:
     id: onebot-client-version
     attributes:
       label: OneBot 客户端
-      desctiption: 连接至 LLOneBot 的客户端版本信息
+      description: 连接至 LLOneBot 的客户端版本信息
       placeholder: Overflow 2.16.0-2cf7991-SNAPSHOT
     validations:
       required: true
